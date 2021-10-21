@@ -1,4 +1,4 @@
-### Olá 👋
+### Hi there! 👋
 
 <!--
 **GuilhermeAlaska/guilhermealaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about movies and series
 - 📫 How to reach me: not right now
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: unlucky
+- ⚡ Fun fact: I'm very unlucky
 
