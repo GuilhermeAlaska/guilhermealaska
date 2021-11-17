@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Rhitmo Tech
-- 🌱 I’m currently learning JavaScript, HTML, CSS
-- 🤔 I’m looking for help with JavaScript, HTML, CSS
+- 🌱 I’m currently learning JavaScript, C# and SQL
+- 🤔 I’m looking for help with JavaScript, C#
 - 💬 Ask me about movies and series
 - 📫 How to reach me: not right now
 - 😄 Pronouns: he/his
