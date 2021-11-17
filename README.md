@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript, C# and SQL
 - 🤔 I’m looking for help with JavaScript, C#
 - 💬 Ask me about movies and series
-- 📫 How to reach me: not right now
+- 📫 How to reach me: @alaskaw3
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm very unlucky
 
