@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about movies and series
 - 📫 How to reach me: @alaskaw3
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I'm very unlucky
+- ⚡ Fun fact: Elephants can’t jump.
 
