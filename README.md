@@ -6,11 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Rhitmo Tech
-- 🌱 I’m currently learning JavaScript, C# and SQL
-- 🤔 I’m looking for help with JavaScript, C#
-- 💬 Ask me about movies and series
+- 🔭 I’m currently working as a back-end developer at Rhitmo Tech
+- 🌱 I’m currently working with C#, .NET
 - 📫 How to reach me: @alaskaw3
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Elephants can’t jump.
 
