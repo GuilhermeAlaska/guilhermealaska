@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a back-end developer at Rhitmo Tech
-- 🌱 I’m currently working with C#, .NET
+- 🔭 I’m currently working as a senior back-end developer at Rhitmo Tech.
+- 🌱 Working with C#, .NET.
 - 📫 How to reach me: @alaskaw3
